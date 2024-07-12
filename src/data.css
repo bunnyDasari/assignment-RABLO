@@ -1,0 +1,15 @@
+.cont{
+    margin: 5px;
+}
+.btn1{
+    margin: 5px;
+    padding: 5px;
+}
+.cont-btn{
+    border-radius: 5px;
+    width: 250px;
+}
+.dele-btn{
+    margin: 5px;
+    border-radius: 8px;
+}

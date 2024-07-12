@@ -1,0 +1,41 @@
+.cont{
+  text-align: center;
+  padding: 5px;
+}
+.inp{
+  margin-bottom: 5px;
+}
+.bg{
+  background-image: url("https://img.freepik.com/free-vector/office-interior-open-space-flat-design-vector-illustration-businessman-boss-top-manager-sitting-working-with-laptop-talking-phone_126523-3095.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1720569600&semt=ais_hybrid");
+  height: 100vh;
+  width: 100%;
+}
+.img{
+  height: 75vh;
+  width: 100%;
+}
+.h1{
+  font-style: "Roboto";
+}
+.search{
+  height: 30px;
+  width: 30px;
+}
+.inputEle{
+  height: 40px;
+  width:200px;
+  border-radius: 5px;
+  font-style: oblique;
+}
+.btn{
+  height: 40px;
+  width: 70px;
+  margin: 4px;
+  background-color: lightblue;
+  border-radius: 5px;
+  font-style: oblique;
+  font-weight: 40px;
+}
+.des{
+  font-style: oblique;
+}
